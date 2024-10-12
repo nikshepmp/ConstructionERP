@@ -1,7 +1,7 @@
 
 # Anugraha Construction Enterprise Software.
 
-The Anugraha Construction is a Construction Company based at Puttur, Karnataka. This Enterprise Application System is a Windows Forms-based software tailored for managing key aspects of construction projects.
+The Anugraha Construction is a Construction Company based in Puttur, Karnataka. This Enterprise Application System is a Windows Forms-based software tailored for managing key aspects of construction projects.
 
 
 
