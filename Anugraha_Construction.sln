@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anugraha_Construction", "Anugraha_Construction.csproj", "{18520572-A9E2-4B36-8D7E-487EB1CF3B53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{367D7457-2EE9-48A4-8091-49E5C1C769E0}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\My Documents\Academic Documents\C#.NET API with MS SQL\AnugraphaConstruction\anugraha_icon.ico = ..\..\..\..\..\My Documents\Academic Documents\C#.NET API with MS SQL\AnugraphaConstruction\anugraha_icon.ico
+		icon = icon
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18520572-A9E2-4B36-8D7E-487EB1CF3B53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18520572-A9E2-4B36-8D7E-487EB1CF3B53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18520572-A9E2-4B36-8D7E-487EB1CF3B53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18520572-A9E2-4B36-8D7E-487EB1CF3B53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9768F158-0104-45C9-A8A7-AF206EB2A250}
+	EndGlobalSection
+EndGlobal
